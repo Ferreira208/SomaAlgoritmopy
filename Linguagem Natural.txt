@@ -1,6 +1,14 @@
 1 - Inicio
-2 - Solicita ao utilizador o operando A
-3 - Solicita ao utilizador o operando B
-4 - Calcula a subtração entre A e B
-5 - Apresenta o resultado da subtração no ecrã
-6 - Fim
+2 - Apresentar no ecrã do computador "Introduza um número inteiro"
+3 - Ler um número inteiro (n1)
+4 - Ler outro número inteiro (n2)
+5 - Apresentar no ecrã do computador "Introduza outro número inteiro"
+6 - Calcula a soma entre n1 e n2
+7 - Calcula a subtração entre n1 e n2 
+8 - Calcular a multiplicação entre n1 e n2 
+9 - Calcular a divisão entre n1 e n2
+10 - Apresenta o resultado da soma
+11 - Apresentar o resultado da subtração
+12 - Apresentar o resultado da multiplicação
+13 - Apresentar o resultado da divisão
+14 - Fim
