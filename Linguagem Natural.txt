@@ -1,0 +1,6 @@
+1 - Inicio
+2 - Solicita ao utilizador o operando A
+3 - Solicita ao utilizador o operando B
+4 - Calcula a subtração entre A e B
+5 - Apresenta o resultado da subtração no ecrã
+6 - Fim
